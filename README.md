@@ -1,5 +1,7 @@
 # Memory Game (`Kotlin`)
 
+Kotlin game project.
+
 A matching game which was an old project I originally wrote in Java and decided to rewrite in
 Kotlin. The layout was created dynamically instead of the traditional XML layout.
 
